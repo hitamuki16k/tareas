@@ -1,0 +1,9 @@
+Mira, si quieres programar en serio, tienes que dominar la terminal. No es por dárselas de experto, es que simplemente te hace la vida más fácil por varias razones:
+
+Es voladora: Olvídate de andar haciendo clic en mil carpetas. Con un par de comandos mueves, creas o borras archivos en un parpadeo. Es mucho más rápido que usar el mouse.
+
+Es la base de todo: Herramientas clave como Git o los gestores de paquetes se manejan ahí. Si no sabes usar la consola, te vas a quedar a medias.
+
+Automatizas lo aburrido: Puedes programar tareas repetitivas para que se hagan solas, ahorrándote un montón de tiempo.
+
+Control total: Entiendes mejor dónde está cada cosa en tu proyecto, cometes menos errores y, cuando algo se rompe, es mucho más fácil arreglarlo desde ahí.
